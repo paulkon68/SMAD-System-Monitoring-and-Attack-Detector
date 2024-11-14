@@ -5,5 +5,5 @@
 3. Start the program with the following command: `python3 GUI.py`.
 
 ```
-pip3 install scapy
+sudo git clone https://github.com/paulkon68/Security_Monitoring.git && pip3 install scapy && cd Security_Monitoring/ && python3 GUI.py 
 ```
