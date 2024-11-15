@@ -7,3 +7,4 @@
 ```bash
 sudo git clone https://github.com/paulkon68/Security_Monitoring.git && pip3 install scapy && cd Security_Monitoring/ && python3 GUI.py 
 ```
+![Picture1](https://github.com/user-attachments/assets/4c764e69-1e03-43d9-b904-45789b92723c)
