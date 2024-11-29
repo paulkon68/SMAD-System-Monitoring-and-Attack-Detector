@@ -3,8 +3,6 @@ import datetime
 from scapy.layers.dot11 import Dot11Deauth
 from tkinter import INSERT
 
-# https://www.researchgate.net/publication/343472668_Practically_Detecting_WiFi_Deauthentication_Attack_80211_Deauth_Packets_using_Python_and_Scapy
-
 class DeauthDetector:
 
     def __init__(self, gui: None = None):
