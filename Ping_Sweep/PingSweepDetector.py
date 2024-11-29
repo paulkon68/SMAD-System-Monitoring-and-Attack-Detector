@@ -22,7 +22,7 @@ class PingSweepDetector:
             # Increase the value of ICMP packets sent from a source IP
             self.IP_ICMP_Stats[icmp_src_ip] += 1
 
-            # If ICMP messages pass a specific limit
+            # If ICMP messages pass a specific threshold
             if int(self.IP_ICMP_Stats[icmp_src_ip]) >= 3:
 
                 # Record the time of event
