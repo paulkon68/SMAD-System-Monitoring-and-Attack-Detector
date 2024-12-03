@@ -1,6 +1,6 @@
 ***`Requirements`***
 
-1. Install the `scapy` python library using `pip3 install scapy`.\
+1. Install the `scapy` python library using `pip3 install scapy`.
 2. Start the program with the following command: `python3 GUI.py`.
 
 ---
