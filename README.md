@@ -8,7 +8,7 @@
 ***`Quick Installation of the Program (for Linux Systems)`***
 
 ```bash
-sudo git clone https://github.com/paulkon68/Security_Monitoring.git && sudo pip3 install scapy && cd Security_Monitoring/ && sudo python3 GUI.py 
+sudo git clone https://github.com/paulkon68/Security_Monitoring.git && sudo pip3 install scapy; cd Security_Monitoring/ && sudo python3 GUI.py 
 ```
 
 ---
