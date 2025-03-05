@@ -31,7 +31,7 @@ class PingSweepDetector:
                 self.help_check_time = 1
 
             y = datetime.datetime.now()
-            print(f"y: {y}, start_time: {self.start_time}, {self.IP_ICMP_Stats[icmp_src_ip]}")
+            # print(f"y: {y}, start_time: {self.start_time}, {self.IP_ICMP_Stats[icmp_src_ip]}")
 
             if (y - self.start_time).seconds > 30:
                 self.IP_ICMP_Stats[icmp_src_ip] = 0
