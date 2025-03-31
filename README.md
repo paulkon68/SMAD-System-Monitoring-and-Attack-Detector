@@ -20,6 +20,6 @@ sudo git clone https://github.com/paulkon68/Security_Monitoring.git && sudo pip3
 3. If a potential attack is detected, the program will display information about it, such as the exact time the event occurred as well as other information about the compromised systems and the system from which the attack originated.
 4. The `Export Data` button is used to save the information gathered in field three (3) to a file for further study of the findings.
 
-***`Link`***: https://www.researchgate.net/profile/Oles-Yudin/publication/386275883_Tezi_dopovidej_Studentskoi_Konferencii_Informacijna_Funkcijna_i_Kiberbezpeka_IV_Scientific_and_practical_conference_Student_conference_on_information_functional_and_cyber_security_of_SCIFiC/links/674b42ea876bd17778314386/Tezi-dopovidej-Studentskoi-Konferencii-Informacijna-Funkcijna-i-Kiberbezpeka-IV-Scientific-and-practical-conference-Student-conference-on-information-functional-and-cyber-security-of-SCIFiC.pdf?origin=publication_detail&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uRG93bmxvYWQiLCJwcmV2aW91c1BhZ2UiOiJwdWJsaWNhdGlvbiJ9fQ
+***`Link`***: https://www.researchgate.net/publication/386275883_Tezi_dopovidej_Studentskoi_Konferencii_Informacijna_Funkcijna_i_Kiberbezpeka_IV_Scientific_and_practical_conference_Student_conference_on_information_functional_and_cyber_security_of_SCIFiC
 
 
