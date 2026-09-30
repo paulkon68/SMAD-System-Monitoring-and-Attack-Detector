@@ -20,6 +20,8 @@ sudo git clone https://github.com/paulkon68/Security_Monitoring.git && sudo pip3
 3. If a potential attack is detected, the program will display information about it, such as the exact time the event occurred as well as other information about the compromised systems and the system from which the attack originated.
 4. The `Export Data` button is used to save the information gathered in field three (3) to a file for further study of the findings.
 
-***`Link`***: https://www.researchgate.net/publication/386275883_Tezi_dopovidej_Studentskoi_Konferencii_Informacijna_Funkcijna_i_Kiberbezpeka_IV_Scientific_and_practical_conference_Student_conference_on_information_functional_and_cyber_security_of_SCIFiC
+***`Link`***: 
+- https://www.researchgate.net/publication/386275883_Tezi_dopovidej_Studentskoi_Konferencii_Informacijna_Funkcijna_i_Kiberbezpeka_IV_Scientific_and_practical_conference_Student_conference_on_information_functional_and_cyber_security_of_SCIFiC
 
+- https://khai.edu/post/cetverta-studentska-konferencia-z-informacijnoi,-funkcijnoi-i-kiberbezpeki-(skifik-2024) 
 
